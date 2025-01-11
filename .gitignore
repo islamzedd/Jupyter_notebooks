@@ -1,0 +1,16 @@
+# Ignore shell configuration and history files
+.bash_history
+.bash_logout
+.bashrc
+.profile
+
+# Ignore Jupyter-related configuration and checkpoint files
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+
+# Ignore local user data
+.local/
+
+# Ignore git configuration
+.gitconfig
